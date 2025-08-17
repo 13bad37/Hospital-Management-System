@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lP3vJ+dKah0=",
+  "success": true,
+  "projectFilePath": "/home/nonso/Hospital Admin Systsem/Hospital Admin Systsem.csproj",
+  "expectedPackageFiles": [
+    "/home/nonso/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

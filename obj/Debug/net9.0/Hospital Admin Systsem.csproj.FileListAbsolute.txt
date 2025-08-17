@@ -1,0 +1,14 @@
+/home/nonso/Hospital Admin Systsem/bin/Debug/net9.0/Hospital Admin Systsem
+/home/nonso/Hospital Admin Systsem/bin/Debug/net9.0/Hospital Admin Systsem.deps.json
+/home/nonso/Hospital Admin Systsem/bin/Debug/net9.0/Hospital Admin Systsem.runtimeconfig.json
+/home/nonso/Hospital Admin Systsem/bin/Debug/net9.0/Hospital Admin Systsem.dll
+/home/nonso/Hospital Admin Systsem/bin/Debug/net9.0/Hospital Admin Systsem.pdb
+/home/nonso/Hospital Admin Systsem/obj/Debug/net9.0/Hospital Admin Systsem.GeneratedMSBuildEditorConfig.editorconfig
+/home/nonso/Hospital Admin Systsem/obj/Debug/net9.0/Hospital Admin Systsem.AssemblyInfoInputs.cache
+/home/nonso/Hospital Admin Systsem/obj/Debug/net9.0/Hospital Admin Systsem.AssemblyInfo.cs
+/home/nonso/Hospital Admin Systsem/obj/Debug/net9.0/Hospital Admin Systsem.csproj.CoreCompileInputs.cache
+/home/nonso/Hospital Admin Systsem/obj/Debug/net9.0/Hospital Admin Systsem.dll
+/home/nonso/Hospital Admin Systsem/obj/Debug/net9.0/refint/Hospital Admin Systsem.dll
+/home/nonso/Hospital Admin Systsem/obj/Debug/net9.0/Hospital Admin Systsem.pdb
+/home/nonso/Hospital Admin Systsem/obj/Debug/net9.0/Hospital Admin Systsem.genruntimeconfig.cache
+/home/nonso/Hospital Admin Systsem/obj/Debug/net9.0/ref/Hospital Admin Systsem.dll
